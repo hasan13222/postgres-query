@@ -30,7 +30,7 @@ Data modification can be done using the following syntax:
 
 ```sql
 UPDATE table_name SET column_name = updated_content WHERE condition;
-
+```
 
 ## What is the significance of the JOIN operation, and how does it work in PostgreSQL?
 
